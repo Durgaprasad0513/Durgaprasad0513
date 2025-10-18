@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durgaprasad0513
-- 👀 I’m interested in Software development and Cloud computing 
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Software development and Cloud
+- 🌱 I’m currently learning Devops and full stack web development
 - 💞️ I’m looking to collaborate on cloud related projects
 - 📫 How to reach me -durgaprasavallabaneni@gmail.com
 - 😄 Pronouns: buntyy..
