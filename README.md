@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durgaprasad0513
 - 👀 I’m interested in Software development and Devops
-- 🌱 I’m currently learning Devops and full stack web development
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on software and devops related projects
 - 📫 How to reach me -durgaprasavallabaneni@gmail.com
 - 🎯I'm looking to land in a software job for which iam currently working on it
