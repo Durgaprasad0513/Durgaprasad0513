@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Durgaprasad0513
-- 👀 I’m interested in Software development and Devops
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on software and devops related projects
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning cloud
+- 💞️ I’m looking to collaborate on software and data science related projects
 - 📫 How to reach me -durgaprasavallabaneni@gmail.com
 - 🎯I'm looking to land in a software job for which iam currently working on it
-- 😄 Pronouns: buntyy..
 
 <!---
 Durgaprasad0513/Durgaprasad0513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
