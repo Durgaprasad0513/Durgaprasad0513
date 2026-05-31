@@ -20,8 +20,6 @@
 - ⚙️ Skilled in **microservices architecture**, REST API design & containerized deployments
 - ☁️ Hands-on with **AWS (EC2, S3, IAM, RDS)** and CI/CD via GitHub Actions
 - 🎯 Actively seeking a **Full-Stack / Software Development** role
-- 📬 **durgaprasadvallabaneni@gmail.com**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -57,68 +55,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗳️ Distributed Voting App
-> **Python • Flask • Node.js • Redis • PostgreSQL • Docker**
-
-- Microservices architecture spanning **5 containerized services** orchestrated with Docker Compose
-- Isolated **front-tier/back-tier networks** for secure inter-service communication with health checks
-- CI/CD via **GitHub Actions** — automated Docker image builds across vote, result & worker services on every push
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durgaprasad)
-
----
-
-### 💬 Real-Time Chat App
-> **Python • Flask • React • Redis • Socket.IO**
-
-- Full-stack chat app with **public rooms & private messaging** using Redis Pub/Sub for zero-coupling broadcast
-- **Flask-SocketIO + eventlet** for async WebSocket handling across multiple concurrent rooms
-- Secure auth with **bcrypt** password hashing, Redis-backed sessions & real-time online/offline presence tracking
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durgaprasad)
-
----
-
-### 💰 Expense Tracker REST API
-> **FastAPI • PostgreSQL • RESTful APIs**
-
-- Production-ready API with **JWT authentication**, CRUD expense management & budget overspend alerts
-- Analytics endpoints for monthly summaries and category breakdowns via **PostgreSQL aggregation**
-- SendGrid email notifications + **CSV export** for user data portability
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durgaprasad)
-
----
-
-## 💼 Experience
-
-**Full Stack Web Developer Intern** @ [Pantech.ai](https://pantech.ai) *(Jul 2024 – Oct 2024)*
-- 🚀 Reduced average page load time by **40%** through performance optimization
-- 🔧 Built Node.js + Express backend APIs handling **concurrent user sessions**
-- ✅ Achieved **95% code coverage** through unit and integration testing
-- 🔗 Integrated third-party APIs & databases for seamless real-time data flow
-
----
-
-## 📜 Certifications
-
-| 🏅 Certificate | 🏢 Issuer |
-|---|---|
-| Python Essentials | Cisco Networking Academy |
-| Full Stack Web Development (HTML, CSS, JavaScript) | Pantech.ai |
-| SQL and Relational Databases 101 | IBM Skills Network |
-| AWS Knowledge: Cloud Essentials | AWS |
-| AI Fundamentals | IBM Skills Network |
-| REST APIs | HackerRank |
-
----
-
----
-
 <div align="center">
 
-*"Scalable systems. Clean code. Ship it."* 🚢
+*"Eat. Build. Sleep. Repeat."* 
 
 </div>
